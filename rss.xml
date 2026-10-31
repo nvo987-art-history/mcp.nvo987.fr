@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <channel>
+
+        <title>MCP Interpretive Infrastructure — NVO987</title>
+
+        <link>https://mcp.nvo987.fr/</link>
+
+        <description>
+            MCP Interpretive Infrastructure within the
+            NEXARIUM Civilisation Layer.
+        </description>
+
+        <language>en</language>
+
+        <managingEditor>contact@nvo987.fr</managingEditor>
+
+        <webMaster>contact@nvo987.fr</webMaster>
+
+        <copyright>
+            Copyright 2026 NVO987.
+        </copyright>
+
+        <atom:link
+            href="https://mcp.nvo987.fr/rss.xml"
+            rel="self"
+            type="application/rss+xml"/>
+
+        <image>
+            <url>https://mcp.nvo987.fr/favicon-96x96.png</url>
+            <title>MCP Interpretive Infrastructure</title>
+            <link>https://mcp.nvo987.fr/</link>
+        </image>
+
+        <item>
+
+            <title>MCP Interpretive Infrastructure</title>
+
+            <link>https://mcp.nvo987.fr/</link>
+
+            <guid isPermaLink="true">
+                https://mcp.nvo987.fr/
+            </guid>
+
+            <description>
+                The infrastructure layer for structured machine
+                interpretation, context, connectivity, and
+                interoperability within the NEXARIUM Civilisation Layer.
+            </description>
+
+            <dc:creator>NVO987</dc:creator>
+
+        </item>
+
+    </channel>
+
+</rss>
