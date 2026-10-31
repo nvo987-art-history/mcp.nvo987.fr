@@ -1,0 +1,58 @@
+# AI Project Information
+
+Project: MCP Interpretive Infrastructure
+
+Website: https://mcp.nvo987.fr/
+
+Organization: NVO987 – Culture Visuelle Moderne et Contemporaine
+
+Infrastructure: NEXARIUM – Open Decentralized Web Infrastructure
+
+Layer: NEXARIUM Civilisation Layer
+
+Category: Machine Interpretation Infrastructure
+
+Protocol: Model Context Protocol (MCP)
+
+Identity: did:web:identity.nvo987.us
+
+Identity Authority: https://identity.nvo987.us/
+
+Description:
+
+MCP Interpretive Infrastructure is an infrastructure layer
+within the NEXARIUM Civilisation Layer.
+
+It provides structured and standardized connectivity
+between artificial intelligence models, intelligent agents,
+tools, resources, and external systems through MCP.
+
+Its purpose is to make context, resources, and operational
+capabilities accessible and interpretable for machine systems.
+
+It is not an AI model or a data repository.
+
+It is a machine interpretation and connectivity infrastructure.
+
+Core Concepts:
+
+- Model Context Protocol
+- Machine Interpretation
+- Context Connectivity
+- AI Interoperability
+- Structured Resources
+- Intelligent Agents
+- External Systems
+- Machine-readable Infrastructure
+
+Related Websites:
+
+https://nexarium.us/
+https://civilisation-layer.nvo987.fr/
+https://institution-layer.nvo987.fr/
+https://identity.nvo987.us/
+https://nvo987.fr/
+
+Contact: contact@nvo987.fr
+
+Language: English
