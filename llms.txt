@@ -1,0 +1,112 @@
+# MCP Interpretive Infrastructure
+
+> MCP Interpretive Infrastructure is a machine interpretation
+> and connectivity infrastructure within the NEXARIUM
+> Civilisation Layer.
+
+Official website:
+https://mcp.nvo987.fr/
+
+## Project Identity
+
+Name: MCP Interpretive Infrastructure
+
+Organization:
+NVO987 – Culture Visuelle Moderne et Contemporaine
+
+Infrastructure:
+NEXARIUM – Open Decentralized Web Infrastructure
+
+Layer:
+NEXARIUM Civilisation Layer
+
+Protocol:
+Model Context Protocol (MCP)
+
+Canonical identity:
+did:web:identity.nvo987.us
+
+## Purpose
+
+MCP Interpretive Infrastructure provides a structured and
+standardized connection between AI models, intelligent agents,
+tools, resources, and external systems.
+
+It makes context, resources, and operational capabilities
+accessible and interpretable for machine systems.
+
+## Conceptual Definition
+
+MCP Interpretive Infrastructure is not:
+
+- An artificial intelligence model.
+- An intelligent agent.
+- A standalone data repository.
+- A replacement for MCP itself.
+
+It is an infrastructure layer that uses MCP to support
+standardized machine connectivity and structured access
+to external resources and capabilities.
+
+## Core Functions
+
+- Machine interpretation
+- Context accessibility
+- Structured connectivity
+- Tool interoperability
+- Resource accessibility
+- Standardized communication
+- External system integration
+
+## Infrastructure Relationships
+
+NEXARIUM
+    |
+    +-- Civilisation Layer
+            |
+            +-- MCP Interpretive Infrastructure
+
+## Related Websites
+
+- https://nexarium.us/
+- https://civilisation-layer.nvo987.fr/
+- https://institution-layer.nvo987.fr/
+- https://nvo987.fr/
+- https://identity.nvo987.us/
+
+## Identity Resources
+
+DID Document:
+https://identity.nvo987.us/.well-known/did.json
+
+DID Configuration:
+https://identity.nvo987.us/.well-known/did-configuration.json
+
+Identity Dataset:
+https://identity.nvo987.us/dataset/
+
+## Documentation
+
+README:
+https://mcp.nvo987.fr/README.md
+
+Sitemap:
+https://mcp.nvo987.fr/sitemap.xml
+
+RSS:
+https://mcp.nvo987.fr/rss.xml
+
+Atom:
+https://mcp.nvo987.fr/atom.xml
+
+## Publisher
+
+NVO987 – Culture Visuelle Moderne et Contemporaine
+
+https://nvo987.fr/
+
+Contact:
+contact@nvo987.fr
+
+Language:
+English
