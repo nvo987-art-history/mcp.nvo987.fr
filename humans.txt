@@ -1,0 +1,71 @@
+/* TEAM */
+
+Project: MCP Interpretive Infrastructure
+Organization: NVO987 – Culture Visuelle Moderne et Contemporaine
+
+Founder:
+Nicholas Van-Orton
+
+Role:
+Independent Researcher
+
+Website:
+https://nvo987.fr/
+
+Infrastructure:
+NEXARIUM – Open Decentralized Web Infrastructure
+
+https://nexarium.us/
+
+
+/* PROJECT */
+
+Project Name:
+MCP Interpretive Infrastructure
+
+Domain:
+https://mcp.nvo987.fr/
+
+Layer:
+NEXARIUM Civilisation Layer
+
+Protocol:
+Model Context Protocol (MCP)
+
+Purpose:
+Structured machine interpretation, context connectivity,
+and interoperability.
+
+
+/* IDENTITY */
+
+DID:
+did:web:identity.nvo987.us
+
+Identity Authority:
+https://identity.nvo987.us/
+
+ORCID:
+https://orcid.org/0009-0007-4628-1871
+
+
+/* TECHNOLOGY */
+
+HTML5
+CSS3
+Semantic HTML
+Schema.org JSON-LD
+Model Context Protocol
+Decentralized Identity
+Machine-readable Metadata
+
+
+/* CONTACT */
+
+contact@nvo987.fr
+
+
+/* COPYRIGHT */
+
+NVO987 – Culture Visuelle Moderne et Contemporaine
+2026
