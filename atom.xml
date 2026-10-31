@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>MCP Interpretive Infrastructure — NVO987</title>
+
+    <subtitle>
+        MCP Interpretive Infrastructure within the
+        NEXARIUM Civilisation Layer.
+    </subtitle>
+
+    <id>https://mcp.nvo987.fr/</id>
+
+    <link href="https://mcp.nvo987.fr/" rel="alternate"/>
+
+    <link href="https://mcp.nvo987.fr/atom.xml" rel="self"
+          type="application/atom+xml"/>
+
+    <updated>2026-10-31T00:00:00Z</updated>
+
+    <author>
+        <name>NVO987 – Culture Visuelle Moderne et Contemporaine</name>
+        <email>contact@nvo987.fr</email>
+        <uri>https://nvo987.fr/</uri>
+    </author>
+
+    <rights>
+        Copyright 2026 NVO987.
+        Documentation licensing information:
+        https://creativecommons.org/licenses/by/4.0/
+    </rights>
+
+    <entry>
+
+        <title>MCP Interpretive Infrastructure</title>
+
+        <id>https://mcp.nvo987.fr/#infrastructure</id>
+
+        <link href="https://mcp.nvo987.fr/"/>
+
+        <updated>2026-10-31T00:00:00Z</updated>
+
+        <summary>
+            The infrastructure layer for structured machine
+            interpretation, context, connectivity, and
+            interoperability within the NEXARIUM Civilisation Layer.
+        </summary>
+
+        <content type="text">
+            MCP Interpretive Infrastructure provides a structured
+            and standardized connection between AI models,
+            intelligent agents, tools, resources, and external
+            systems through the Model Context Protocol.
+        </content>
+
+    </entry>
+
+</feed>
