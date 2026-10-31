@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:org="http://www.w3.org/ns/org#">
+
+    <foaf:PersonalProfileDocument
+        rdf:about="https://mcp.nvo987.fr/foaf.xml">
+
+        <foaf:primaryTopic
+            rdf:resource="https://nvo987.us/#person"/>
+
+    </foaf:PersonalProfileDocument>
+
+    <foaf:Person rdf:about="https://nvo987.us/#person">
+
+        <foaf:name>Nicholas Van-Orton</foaf:name>
+
+        <foaf:homepage
+            rdf:resource="https://nvo987.us/"/>
+
+        <foaf:img
+            rdf:resource="https://nvo987.us/images/nicholas-van-orton.jpg"/>
+
+        <foaf:workplaceHomepage
+            rdf:resource="https://nvo987.fr/"/>
+
+        <foaf:member>
+            <foaf:Organization
+                rdf:about="https://nvo987.fr/#organization">
+
+                <foaf:name>
+                    NVO987 – Culture Visuelle Moderne et Contemporaine
+                </foaf:name>
+
+                <foaf:homepage
+                    rdf:resource="https://nvo987.fr/"/>
+
+            </foaf:Organization>
+        </foaf:member>
+
+        <foaf:accountServiceHomepage
+            rdf:resource="https://identity.nvo987.us/"/>
+
+    </foaf:Person>
+
+    <foaf:Organization rdf:about="https://nexarium.us/#organization">
+
+        <foaf:name>
+            NEXARIUM – Open Decentralized Web Infrastructure
+        </foaf:name>
+
+        <foaf:homepage
+            rdf:resource="https://nexarium.us/"/>
+
+    </foaf:Organization>
+
+    <foaf:Document rdf:about="https://mcp.nvo987.fr/">
+
+        <dc:title>
+            MCP Interpretive Infrastructure
+        </dc:title>
+
+        <dc:description>
+            Infrastructure for structured machine interpretation,
+            context, connectivity, and interoperability.
+        </dc:description>
+
+        <dc:creator
+            rdf:resource="https://nvo987.us/#person"/>
+
+        <dc:publisher
+            rdf:resource="https://nvo987.fr/#organization"/>
+
+        <dc:isPartOf
+            rdf:resource="https://civilisation-layer.nvo987.fr/"/>
+
+    </foaf:Document>
+
+</rdf:RDF>
